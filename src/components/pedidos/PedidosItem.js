@@ -20,6 +20,8 @@ function PedidosItem(props) {
 
     return (
         <>
+
+    <h1>Holis desde mi casa</h1>
             <form onSubmit={agregarCarrito}>
                 <img src={props.url_img} className={cx(styles['card-img-top'])} alt="..."></img>
                 <div className={cx(globalStyles.div, styles['card-body'])}> 
