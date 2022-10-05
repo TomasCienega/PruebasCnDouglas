@@ -1,6 +1,6 @@
 function Restar(){
     return(
-        <h3>Titulo</h3>
+        <h3>Titulo 2</h3>
     );
 }
 
